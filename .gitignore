@@ -1,0 +1,23 @@
+
+# caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# distribution
+MANIFEST.in
+dist/
+build/
+*.egg-info/
+
+# virtual env
+venv/
+
+# extra folders
+resources/
+
+# pycharm config
+.idea
+
+# OS generated
+.DS_Store
